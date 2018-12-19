@@ -1,0 +1,68 @@
+﻿
+@model IEnumerable<Model.CuocGoi>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+
+<div class="jumbotron">
+    <h1>Vinaphone</h1>
+    <p class="lead">Vinaphone là công ty dịch vụ internet tốt nhất hiện nay</p>
+    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Tìm hiểu thêm &raquo;</a></p>
+</div>
+
+<div class="row">
+
+    @using (Html.BeginForm("Index", "Home", FormMethod.Get))
+    {
+        <div class="col-md-6">
+            <div class="input-group">
+                <input type="text" value="84913919143" name="soSim" class="form-control" placeholder="Nhập tên thuốc cần tìm">
+                <span class="input-group-btn"><button type="submit" class="btn btn-primary"><i class="lnr lnr-magnifier modifier-icon"></i>Tìm kiếm</button></span>
+            </div>
+        </div>
+    }
+
+
+        <div class=" col-sm-12 col-md-12 col-lg-12">
+
+            <h3><a href="@Url.Action("Index", "Customer")"> <span>Thông tin tài khoản</span></a></h3>
+
+            <h3><a href="@Url.Action("Index", "Payment")"> <span>Hóa đơn thanh toán</span></a></h3>
+        </div>
+   
+    
+    <div class=" col-sm-12 col-md-12 col-lg-12">
+        <h3>Lịch sử cuộc gọi</h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Thời gian bắt đầu </th>
+                    <th>Thời gian kết thúc</th>
+                    <th>Thời gian sử dụng</th>
+                    <th>Thành tiền</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null)
+                {
+
+                    foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.TG_BatDau</td>
+                            <td>@item.TG_KetThuc</td>
+                            <td>@item.SoPhutSD</td>
+                            <td>@item.ThanhTien</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>
+

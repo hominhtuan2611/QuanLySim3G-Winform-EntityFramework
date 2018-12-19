@@ -1,0 +1,88 @@
+﻿
+@model IEnumerable<Model.HoaDonThanhToan>
+
+@{
+    ViewBag.Title = "Hóa đơn thanh toán";
+}
+
+
+
+
+<div class="jumbotron">
+    <h1>Vinaphone</h1>
+    <p class="lead">Vinaphone là công ty dịch vụ internet tốt nhất hiện nay</p>
+    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Tìm hiểu thêm &raquo;</a></p>
+</div>
+
+<div class="row">
+
+    @using (Html.BeginForm("Index", "Payment", FormMethod.Get))
+    {
+        <div class="col-md-6">
+            <div class="input-group">
+                <div class="form-group">
+                    <select class="form-control" name="thangSuDung">
+                        <option value="-1">Tất cả</option>
+                        <option value="1">Tháng 1</option>
+                        <option value="2">Tháng 2</option>
+                        <option value="3">Tháng 3</option>
+                        <option value="4">Tháng 4</option>
+                        <option value="5">Tháng 5</option>
+                        <option value="6">Tháng 6</option>
+                        <option value="7">Tháng 7</option>
+                        <option value="8">Tháng 8</option>
+                        <option value="9">Tháng 9</option>
+                        <option value="10">Tháng 10</option>
+                        <option value="11">Tháng 11</option>
+                        <option value="12">Tháng 12</option>
+                    </select>
+                </div>                  
+                <span class="input-group-btn"><button type="submit" class="btn btn-primary">Lọc</button></span>
+            </div>
+        </div>
+    }
+
+
+    <div class=" col-sm-12 col-md-12 col-lg-12">
+        <h1>Hóa đơn thanh toán</h1>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+
+                    <th>Tháng sử dụng</th>
+                    <th>Tình trạng thanh toán</th>
+                    <th>Thành tiền</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null)
+                {
+
+                    foreach (var item in Model)
+                    {
+                        <tr>
+
+                            <td>@item.NgayHD</td>
+
+                            @if (@item.ThanhToan == true)
+                            {
+                                <td>
+                                    Đã thanh toán
+                                </td>
+                            }
+                            else
+                            {
+                                <td>
+                                    Chưa thanh toán
+                                </td>
+                            }
+                            <td>@item.ThanhTien</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>
+

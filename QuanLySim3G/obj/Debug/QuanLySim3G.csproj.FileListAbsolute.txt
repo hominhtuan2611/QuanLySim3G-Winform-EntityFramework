@@ -1,0 +1,67 @@
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\bin\Debug\QuanLySim3G.exe.config
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\bin\Debug\QuanLySim3G.exe
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\bin\Debug\QuanLySim3G.pdb
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\bin\Debug\Model.dll
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\bin\Debug\EntityFramework.dll
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\bin\Debug\Model.pdb
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\bin\Debug\EntityFramework.xml
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.csprojResolveAssemblyReference.cache
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.Index.resources
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.Properties.Resources.resources
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.csproj.GenerateResource.Cache
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.exe
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.pdb
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.TongQuan.resources
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.DangKySim.resources
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.ThanhToan.resources
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\bin\Debug\EntityFramework.SqlServer.dll
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\bin\Debug\EntityFramework.SqlServer.xml
+E:\project-c#-web\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.SubForm.TimSim.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\bin\Debug\QuanLySim3G.exe.config
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\bin\Debug\QuanLySim3G.exe
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\bin\Debug\QuanLySim3G.pdb
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\bin\Debug\EntityFramework.dll
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\bin\Debug\Model.dll
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\bin\Debug\Model.pdb
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\bin\Debug\Model.dll.config
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\bin\Debug\EntityFramework.xml
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.csprojAssemblyReference.cache
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.DangKySim.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.Index.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.Properties.Resources.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.SubForm.TimSim.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.ThanhToan.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.TongQuan.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.csproj.GenerateResource.cache
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.csproj.CoreCompileInputs.cache
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.csproj.CopyComplete
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.exe
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.pdb
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G\QuanLySim3G\obj\Debug\QuanLySim3G.LichSuCuocGoi.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\bin\Debug\QuanLySim3G.exe.config
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\bin\Debug\QuanLySim3G.exe
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\bin\Debug\QuanLySim3G.pdb
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\bin\Debug\Model.dll
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\bin\Debug\Model.pdb
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\bin\Debug\Model.dll.config
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\bin\Debug\EntityFramework.xml
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.csprojAssemblyReference.cache
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.DangKySim.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.Index.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.LichSuCuocGoi.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.Properties.Resources.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.SubForm.TimSim.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.ThanhToan.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.TongQuan.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.csproj.GenerateResource.cache
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.csproj.CoreCompileInputs.cache
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.csproj.CopyComplete
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.exe
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.pdb
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.HoaDon.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.GiaCuoc.resources
+C:\Users\Soc Kien Tam\Documents\QuanLySim3G-Winform-EntityFramework\QuanLySim3G\obj\Debug\QuanLySim3G.QLSim.resources

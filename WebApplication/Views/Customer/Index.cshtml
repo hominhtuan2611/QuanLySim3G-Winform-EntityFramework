@@ -1,0 +1,46 @@
+﻿
+@model Model.KhachHang
+
+@{
+    ViewBag.Title = "Thông tin khách hàng";
+}
+
+
+<div class="jumbotron">
+    <h1>Vinaphone</h1>
+    <p class="lead">Vinaphone là công ty dịch vụ internet tốt nhất hiện nay</p>
+    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Tìm hiểu thêm &raquo;</a></p>
+</div>
+
+<div class="row">
+
+  
+    <div class=" col-sm-12 col-md-12 col-lg-12">
+        <h1>Thông tin tài khoản</h1>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Tên khách hàng</th>
+                    <th>CMND</th>
+                    <th>Nghề nghiệp</th>
+                    <th>Điạ chỉ</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null)
+                {
+
+                    <tr>
+                        <td>@Model.TenKH</td>
+                        <td>@Model.CMND</td>
+                        <td>@Model.NgheNghiep</td>
+                        <td>@Model.DiaChi</td>
+                    </tr>
+                
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
