@@ -239,7 +239,7 @@ namespace QuanLySim3G
             txtTenKhach.Text = "";
             txtDiaChi.Text = "";
             txtNghe.Text = "";
-            txtEmail.Text = "";
+        
 
 
             btnCapNhat.Enabled = false;
